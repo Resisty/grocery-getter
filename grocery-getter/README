@@ -15,3 +15,5 @@ Build requirements:
  * requests
  * BeautifulSoup4
 
+Notes:
+* The *.txt files are from manipulating the data with bash
