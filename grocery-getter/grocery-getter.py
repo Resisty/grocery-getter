@@ -1,10 +1,11 @@
-#!/usr/bin/env python
+#! usr/local/bin/python3
 
 import argparse
 import requests
 import math
+import re
 
-import BeautifulSoup
+from bs4 import BeautifulSoup
 
 # get ingredients from http://www.eatingwell.com/article/288729/7-day-vegetarian-meal-plan-1200-calories/
 
