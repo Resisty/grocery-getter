@@ -14,3 +14,4 @@ Build requirements:
 2. Packages, installed with pip3:
  * requests
  * BeautifulSoup4
+
